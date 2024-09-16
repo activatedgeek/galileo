@@ -2,23 +2,23 @@ owner: activatedgeek
 repo: status
 
 sites:
-  - name: www
+  - name: Website
     url: https://sanyamkapoor.com
   - name: CV
     url: https://sanyamkapoor.com/cv
-  - name: Wine
+  - name: Wine Map
     url: https://maps.sanyamkapoor.com/wine
 
 status-website:
   cname: status.sanyamkapoor.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  logoUrl: https://sanyamkapoor.com/sk.svg
+  faviconSvg: https://sanyamkapoor.com/favicon.svg
+  name: sanyamkapoor.com Status
   introTitle: "Status by **Upptime**."
   navbar:
-    - title: Status
+    - title: sanyamkapoor.com Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+user-agent: gh-upptime
