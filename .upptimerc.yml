@@ -16,8 +16,6 @@ status-website:
   name: sanyamkapoor.com Status
   introTitle: "Status by **Upptime**."
   navbar:
-    - title: sanyamkapoor.com Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
