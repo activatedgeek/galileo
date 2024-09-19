@@ -1,5 +1,5 @@
 owner: activatedgeek
-repo: status
+repo: galileo
 
 sites:
   - name: Website
@@ -12,6 +12,7 @@ sites:
 status-website:
   cname: status.sanyamkapoor.com
   logoUrl: https://sanyamkapoor.com/sk.svg
+  favicon: https://sanyamkapoor.com/favicon.svg
   faviconSvg: https://sanyamkapoor.com/favicon.svg
   name: sanyamkapoor.com Status
   introTitle: "Status by **Upptime**."
