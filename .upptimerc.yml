@@ -8,6 +8,8 @@ sites:
     url: https://sanyamkapoor.com/cv
   - name: Wine Map
     url: https://maps.sanyamkapoor.com/wine
+  - name: Films
+    url: https://films.sanyamkapoor.com
 
 status-website:
   cname: status.sanyamkapoor.com
