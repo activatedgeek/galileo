@@ -9,7 +9,7 @@ sites:
   - name: Wine Map
     url: https://maps.sanyamkapoor.com/wine
   - name: Films
-    url: https://films.sanyamkapoor.com
+    url: https://dash.sanyamkapoor.com/films
 
 status-website:
   cname: status.sanyamkapoor.com
