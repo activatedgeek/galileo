@@ -1,7 +1,7 @@
 url: https://maps.sanyamkapoor.com/wine
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2025-11-18T12:36:49.737Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2025-11-18T13:17:44.711Z
 startTime: 2024-09-16T12:48:43.469Z
 generator: Upptime <https://github.com/upptime/upptime>
