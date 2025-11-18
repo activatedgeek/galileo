@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 222,
@@ -16,7 +16,7 @@
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "cv",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 70,
@@ -36,7 +36,7 @@
     "timeMonth": 78,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "wine-map",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 210,
     "timeDay": 203,
@@ -56,7 +56,7 @@
     "timeMonth": 224,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -64,18 +64,19 @@
     "url": "https://dash.sanyamkapoor.com/films",
     "icon": "https://icons.duckduckgo.com/ip3/dash.sanyamkapoor.com.ico",
     "slug": "films",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 231,
-    "timeDay": 203,
-    "timeWeek": 235,
-    "timeMonth": 213,
+    "timeDay": 143,
+    "timeWeek": 216,
+    "timeMonth": 209,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-06-12": 55,
       "2025-04-29": 83,
       "2025-04-28": 2,
