@@ -11,12 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 191,
-    "timeDay": 252,
-    "timeWeek": 188,
-    "timeMonth": 207,
+    "timeDay": 221,
+    "timeWeek": 200,
+    "timeMonth": 209,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-11-18": 137,
       "2026-02-06": 40
     }
   },
@@ -31,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 121,
-    "timeDay": 251,
-    "timeWeek": 236,
-    "timeMonth": 269,
-    "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-11-18": 159
-    }
+    "time": 143,
+    "timeDay": 11123,
+    "timeWeek": 1793,
+    "timeMonth": 623,
+    "timeYear": 163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wine Map",
@@ -51,13 +48,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 209,
-    "timeDay": 374,
-    "timeWeek": 276,
-    "timeMonth": 277,
-    "timeYear": 205,
+    "time": 210,
+    "timeDay": 348,
+    "timeWeek": 290,
+    "timeMonth": 282,
+    "timeYear": 206,
     "dailyMinutesDown": {
-      "2025-11-18": 137,
       "2025-12-19": 27
     }
   },
@@ -72,13 +68,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 202,
-    "timeDay": 331,
-    "timeWeek": 242,
-    "timeMonth": 287,
-    "timeYear": 195,
+    "time": 203,
+    "timeDay": 653,
+    "timeWeek": 280,
+    "timeMonth": 303,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-11-18": 130,
       "2026-04-10": 45
     }
   }
